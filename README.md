@@ -1,46 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm Lucky Auars
+# Halo, aku Lucky Auars 👋
 
-### 🚀 Full Stack Developer | ERP · Web CMS · Company Profile · Data Scraping
+**Full Stack Developer dari Indonesia 🇮🇩**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Laravel+%7C+CodeIgniter+%7C+PHP+Developer;React+%7C+Node.js+%7C+Vite+Builder;ERP+System+%26+Web+CMS+Specialist;Data+Scraping+%26+Trader+Logic+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=Laravel+%2F+CodeIgniter+%2F+PHP;React+%2F+Node.js+%2F+Vite;ERP+%26+Web+CMS+Developer;Data+Scraping+%26+Trader+System)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## Tentang Aku
 
-```php
-<?php
+Aku developer yang udah cukup lama berkutat di dunia web, mainly di backend tapi juga handle frontend kalau perlu.
 
-class LuckyAuars extends Developer {
+Sehari-hari aku kerja di project-project seperti:
+- Sistem **ERP** buat kebutuhan bisnis
+- **Company profile** & website CMS
+- Tools **scraping & rekap data** otomatis
+- Website **trader** — logika profit/loss, dashboard, dan monitoring
 
-    public string $name     = "Lucky Auars";
-    public string $location = "Indonesia 🇮🇩";
-    public string $role     = "Full Stack Web Developer";
-
-    public array $expertise = [
-        "ERP System Development",
-        "Company Profile & Web CMS",
-        "Data Scraping & Recap Automation",
-        "Trader Website (Profit/Loss Logic)",
-    ];
-
-    public array $stack = [
-        "backend"  => ["Laravel", "CodeIgniter", "PHP"],
-        "frontend" => ["React", "Node.js", "Vite"],
-        "database" => ["MySQL", "PostgreSQL"],
-    ];
-
-    public string $currentFocus = "Building scalable ERP & automation systems";
-}
-```
+Stack utama yang aku pakai: **Laravel, CodeIgniter, PHP** untuk backend, **React & Node.js** untuk frontend, dan lagi mulai mendalami **Vite**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,13 +37,12 @@ class LuckyAuars extends Developer {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -76,33 +59,21 @@ class LuckyAuars extends Developer {
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake 🐍
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 💼 What I Build
-
-| Project Type | Description |
-|---|---|
-| 🏭 **ERP System** | Custom enterprise resource planning apps for businesses |
-| 🌐 **Company Profile** | Modern, responsive corporate websites |
-| 📋 **Web CMS** | Content management systems built with Laravel & React |
-| 🤖 **Data Scraping** | Automated data recap & scraping tools |
-| 📈 **Trader Website** | Profit/loss logic, trading dashboard & automation |
-
----
-
-## 📈 Activity Graph
+## Activity
 
 <div align="center">
 
@@ -115,7 +86,5 @@ class LuckyAuars extends Developer {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luckyauars&color=39d353&style=flat-square&label=Profile+Views)
-
-**⭐ Star some repos if you find them useful!**
 
 </div>
