@@ -1,8 +1,6 @@
 <div align="center">
 
-# Halo, aku Lucky Auars 👋
-
-**Full Stack Developer dari Indonesia 🇮🇩**
+# Hi, I'm Lucky Auars 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=Laravel+%2F+CodeIgniter+%2F+PHP;React+%2F+Node.js+%2F+Vite;ERP+%26+Web+CMS+Developer;Data+Scraping+%26+Trader+System)](https://git.io/typing-svg)
 
@@ -10,17 +8,13 @@
 
 ---
 
-## Tentang Aku
+## Tentang Saya
 
-Aku developer yang udah cukup lama berkutat di dunia web, mainly di backend tapi juga handle frontend kalau perlu.
+Saya seorang Full Stack Developer dari Indonesia dengan pengalaman dua tahun di dunia web development.
 
-Sehari-hari aku kerja di project-project seperti:
-- Sistem **ERP** buat kebutuhan bisnis
-- **Company profile** & website CMS
-- Tools **scraping & rekap data** otomatis
-- Website **trader** — logika profit/loss, dashboard, dan monitoring
+Selama ini saya fokus membangun sistem yang benar-benar dipakai — mulai dari **ERP** untuk kebutuhan bisnis, **company profile** yang representatif, sampai **website trader** lengkap dengan logika profit/loss dan monitoring real-time.
 
-Stack utama yang aku pakai: **Laravel, CodeIgniter, PHP** untuk backend, **React & Node.js** untuk frontend, dan lagi mulai mendalami **Vite**.
+Stack yang saya gunakan sehari-hari adalah **Laravel, CodeIgniter, dan PHP** untuk sisi backend, serta **React dan Node.js** untuk frontend. Saat ini sedang mendalami **Vite** lebih jauh.
 
 ---
 
@@ -59,21 +53,17 @@ Stack utama yang aku pakai: **Laravel, CodeIgniter, PHP** untuk backend, **React
 
 ---
 
-## Contribution Snake 🐍
-
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
-
-## Activity
 
 <div align="center">
 
