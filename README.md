@@ -12,7 +12,7 @@
 
 Saya seorang Full Stack Developer dari Indonesia dengan pengalaman dua tahun di dunia web development.
 
-Selama ini saya fokus membangun sistem yang benar-benar dipakai — mulai dari **ERP** untuk kebutuhan bisnis, **company profile** yang representatif, sampai **website trader** lengkap dengan logika profit/loss dan monitoring real-time.
+Selama ini saya fokus membangun sistem mulai dari **ERP** untuk kebutuhan bisnis, **company profile** yang representatif, sampai **website trader** lengkap dengan logika profit/loss dan monitoring real-time.
 
 Stack yang saya gunakan sehari-hari adalah **Laravel, CodeIgniter, dan PHP** untuk sisi backend, serta **React dan Node.js** untuk frontend. Saat ini sedang mendalami **Vite** lebih jauh.
 
