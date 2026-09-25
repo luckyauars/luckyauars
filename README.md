@@ -2,17 +2,27 @@
 
 # Hi, I'm Lucky Auars 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=Laravel+%2F+CodeIgniter+%2F+PHP;React+%2F+Node.js+%2F+Vite;ERP+%26+Web+CMS+Developer;Data+Scraping+%26+Trader+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Laravel+%2F+CodeIgniter+%2F+PHP;React+%2F+Node.js+%2F+Vite;ERP+%26+Web+CMS+Developer;Data+Scraping+%26+Trading+Systems)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-aulia-arisdi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucxy.ars/)
 
 </div>
 
 ---
 
-## Tentang Saya
+## About Me
 
-I'm a Full Stack Developer focused on building practical, business-ready systems — from ERP solutions that streamline internal operations, to company profile websites that represent brands professionally, to trading platforms with profit/loss logic and real-time monitoring.
+I'm a **Full Stack Developer** focused on building practical, business-ready systems — from ERP solutions that streamline internal operations, to company profile websites that represent brands professionally, to trading platforms with profit/loss logic and real-time monitoring.
 
 I enjoy turning complex business requirements into clean, maintainable code that actually solves problems.
+
+- 🏢 Building **ERP systems** and **Web CMS** for businesses
+- 🌐 Crafting **company profile websites** that look professional and load fast
+- 📈 Developing **trading systems** with P/L logic and real-time monitoring
+- 🕷️ Working on **data scraping** and automation pipelines
+- 💬 Ask me about **Laravel, CodeIgniter, React, and Node.js**
+
 ---
 
 ## Tech Stack
@@ -37,30 +47,34 @@ I enjoy turning complex business requirements into clean, maintainable code that
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luckyauars&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyauars&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luckyauars&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyauars&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luckyauars&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luckyauars&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
+
+## Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/luckyauars/luckyauars/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
+
+## Activity Graph
 
 <div align="center">
 
@@ -70,7 +84,17 @@ I enjoy turning complex business requirements into clean, maintainable code that
 
 ---
 
+## Let's Connect
+
 <div align="center">
+
+I'm always open to collaborations, freelance projects, and new opportunities.
+Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-aulia-arisdi/)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucxy.ars/)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luckyauars&color=39d353&style=flat-square&label=Profile+Views)
 
