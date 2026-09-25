@@ -71,7 +71,6 @@ I enjoy turning complex business requirements into clean, maintainable code that
 
 ---
 
-## Contribution Snake
 
 <div align="center">
 
